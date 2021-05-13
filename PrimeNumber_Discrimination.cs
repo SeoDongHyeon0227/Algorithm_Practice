@@ -31,7 +31,7 @@ namespace Test
                     continue;
                 }
             }
-            return A; // return은 박경인님이 도와주심
+            return A; 
         }
     }
 }
