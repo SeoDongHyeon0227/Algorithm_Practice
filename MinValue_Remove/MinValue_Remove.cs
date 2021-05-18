@@ -1,4 +1,6 @@
 using System;
+
+// 확장 메소드 사용
 using System.Collections.Generic;
 using System.Linq;
 
